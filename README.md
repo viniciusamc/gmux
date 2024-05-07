@@ -6,7 +6,9 @@ Another Tmux Manager... but in Golang
 ### Go
 
 ~~~
-go get github.com/davinche/gmux
+go get github.com/davinche/gmux # Go version <= 16
+
+go install github.com/davinche/gmux@latest # Go version >= 17
 ~~~
 
 ### Mac
